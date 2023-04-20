@@ -1,0 +1,3 @@
+# AUTOMATED JAVASCRIPT COURSE
+### The Tech Academy
+
