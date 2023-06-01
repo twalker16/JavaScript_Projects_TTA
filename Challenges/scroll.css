@@ -1,0 +1,17 @@
+html {
+    scroll-behavior: smooth;
+    position: absolute;
+}
+
+div{
+    position: absolute;
+    width:300px;
+    height:100px;
+    left:0;
+    color:red;
+    background-color: aqua;
+}
+#bottom{
+    top:180vh;
+    
+}
